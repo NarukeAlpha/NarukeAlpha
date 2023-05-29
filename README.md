@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currenlty working on a web scaping tool specialized in notifying you when a new chapter of a manga is released on a given website
+
+- 🌱 I'm currenlty learning Go as a programing language for its raise in popularity and its high performance characteristics 
+
+
 <!--
 **NarukeAlpha/NarukeAlpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
