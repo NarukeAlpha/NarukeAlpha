@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currenlty working on a web scaping tool specialized in notifying you when a new chapter of a manga is released on a given website
+- 🔭 I’m currenlty working on a web scaping tool specialized in notifying you when a new chapter of a manga is released on a given website.
+-V1 is done and released.  moving on to other self learning projects.
 
-- 🌱 I'm currenlty learning Go as a programing language for its raise in popularity and its high performance characteristics 
+- 🌱 working on a log archiving framework to easily deploy the server yourself and add the package to your apps.
 
 
 <!--
