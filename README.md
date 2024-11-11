@@ -4,6 +4,10 @@
 -V1 is done and released.  moving on to other self learning projects.
 
 - 🌱 working on a log archiving framework to easily deploy the server yourself and add the package to your apps.
+- - You can find this under Crawler-Console ( I should change the name)
+ 
+- 🏎️ Finishign a prepack of playwright since i use it so often to reduce the amount of times i write or copy paste the same code
+- - Also using this as an excuse to really deep dive into go testing package
 
 
 <!--
