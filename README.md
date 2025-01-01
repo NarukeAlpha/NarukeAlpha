@@ -4,12 +4,14 @@
 - - Also using this as an excuse to really deep dive into go testing package
 
 >>Backlogged
+
 - 🌱 working on a log archiving framework to easily deploy the server yourself and add the package to your apps.
 - - You can find this under Crawler-Console ( I should change the name)
   - Backlogged due to no longer having a dedicated server.  in a year I want to buy a mac mini to use as a home server
 
 >>Archived
-[ ] 🔭 I’m currenlty working on a web scaping tool specialized in notifying you when a new chapter of a manga is released on a given website.
+
+[x] 🔭 I’m currenlty working on a web scaping tool specialized in notifying you when a new chapter of a manga is released on a given website.
 *V1 is done and released.  moving on to other self learning projects.
 
 <!--
